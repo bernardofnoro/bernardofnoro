@@ -30,7 +30,12 @@
     <img align="center" alt="Bernardo-CSS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img align="center" alt="Bernardo-CSS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img align="center" alt="Bernardo-CSS" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="left" alt="MongoDB" width=80px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
 </div>
+<br>
+<br><br>
+
     
     
     
